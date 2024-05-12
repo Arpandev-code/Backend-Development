@@ -1,0 +1,19 @@
+{
+  "name": "01_datamodels_s1",
+  "version": "1.0.0",
+  "description": "Learning Data Models",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "learning",
+    "Arpandev"
+  ],
+  "author": "Arpandev Bhattacharya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.4"
+  }
+}
